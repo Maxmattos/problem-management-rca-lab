@@ -194,7 +194,7 @@ def gerar(seed: int = 42, n_dias: int = 90) -> pd.DataFrame:
     add(
         "Prensa-01",
         "incendio",
-        "Incêndio no painel elétrico (evento isolado)",
+        "Incêndio no painel elétrico",
         "Crítico",
         ts(40, 41),
     )

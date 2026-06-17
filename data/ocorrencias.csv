@@ -132,7 +132,7 @@ OC00130,2025-04-09 00:06:28,2025-04-11 01:45:04.437909999,Serra-01,Cabeceira,par
 OC00131,2025-04-09 05:54:38,2025-04-09 09:56:33.433336986,Coladeira-01,Mesa de jantar,falha-colagem,Alto,Noite,Falha de colagem na fita de borda,4.03
 OC00132,2025-04-09 15:54:02,2025-04-10 07:26:18.719613790,CNC-01,Painel de TV,desgaste-ferramenta,Médio,Noite,Desgaste de ferramenta no usinado,15.54
 OC00133,2025-04-09 16:27:00,2025-04-10 09:56:03.474495878,Prensa-01,Guarda-roupa,pressao-fora-padrao,Médio,Tarde,Pressão fora do padrão na prensagem,17.48
-OC00134,2025-04-10 08:56:03,2025-04-10 11:31:54.530938274,Prensa-01,Cômoda,incendio,Crítico,Noite,Incêndio no painel elétrico (evento isolado),2.6
+OC00134,2025-04-10 08:56:03,2025-04-10 11:31:54.530938274,Prensa-01,Cômoda,incendio,Crítico,Noite,Incêndio no painel elétrico,2.6
 OC00135,2025-04-10 10:05:20,2025-04-11 09:50:14.323328817,Embaladora-01,Criado-mudo,etiqueta-ilegivel,Médio,Noite,Etiqueta ilegível na expedição,23.75
 OC00136,2025-04-10 13:32:17,2025-04-12 00:37:22.354629531,Seccionadora-01,Painel de TV,lascamento,Médio,Tarde,Lascamento na borda do painel,35.08
 OC00137,2025-04-10 19:08:24,2025-04-11 18:03:05.495228214,Furadeira-01,Gaveteiro,furo-descentralizado,Médio,Manhã,Furo descentralizado no painel,22.91
