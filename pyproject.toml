@@ -1,0 +1,16 @@
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+# ADR-07: notebooks são material didático (quebras de linha e imports de demonstração
+# intencionais). O lint os ignora; test_notebooks.py os executa e pega erros reais.
+extend-exclude = ["notebooks/"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM"]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

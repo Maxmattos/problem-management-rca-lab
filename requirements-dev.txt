@@ -1,0 +1,9 @@
+# Ferramentas de teste/lint/execução de notebooks (não-runtime).
+pytest>=8
+ruff>=0.5
+nbclient>=0.10
+nbconvert>=7
+nbformat>=5
+jupyter
+ipykernel
+kaleido==0.2.1

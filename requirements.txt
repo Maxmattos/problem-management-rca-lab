@@ -1,0 +1,12 @@
+# Runtime dos notebooks. Versões fixadas para estabilizar a serialização do CSV
+# (suporta a checagem de hash determinística em tests/conftest.py).
+pandas==3.0.3
+numpy==2.4.6
+plotly>=5.18
+# matplotlib desenha os diagramas de Ishikawa (espinha-de-peixe) dos Encontros 2 e 3.
+matplotlib>=3.7
+# kaleido 0.2.1 embute o próprio Chromium, então os gráficos exportam para PNG
+# estático (e renderizam no GitHub) sem precisar de um Chrome separado.
+kaleido==0.2.1
+notebook>=7.0
+nbformat>=5.9

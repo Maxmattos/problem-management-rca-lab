@@ -1,0 +1,344 @@
+ocorrencia_id,aberto_em,resolvido_em,maquina,produto,tipo_defeito,gravidade,turno,descricao,tempo_resolucao_h
+OC00001,2025-03-01 20:01:58,2025-03-02 02:24:58.548135866,Embaladora-01,Cômoda,falha-embalagem,Alto,Noite,Falha no filme de embalagem,6.38
+OC00002,2025-03-03 10:48:39,2025-03-07 04:38:26.222001988,Serra-02,Cômoda,corte-fora-medida,Baixo,Tarde,Corte fora de medida na Serra-02,89.83
+OC00003,2025-03-03 14:08:38,2025-03-05 18:30:02.177004614,Embaladora-01,Mesa de jantar,falha-embalagem,Baixo,Tarde,Falha no filme de embalagem,52.36
+OC00004,2025-03-03 20:48:43,2025-03-04 01:25:19.337923907,Furadeira-01,Criado-mudo,furo-descentralizado,Médio,Tarde,Furo descentralizado no painel,4.61
+OC00005,2025-03-03 22:39:04,2025-03-05 20:37:15.887616233,Serra-01,Estante,corte-fora-esquadro,Alto,Tarde,Corte fora de esquadro no painel,45.97
+OC00006,2025-03-04 17:13:10,2025-03-07 16:29:50.209846028,Serra-02,Gaveteiro,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,71.28
+OC00007,2025-03-05 02:46:04,2025-03-05 06:40:21.555406041,Prensa-01,Cabeceira,delaminacao,Alto,Tarde,Delaminação do painel prensado,3.9
+OC00008,2025-03-05 10:16:10,2025-03-06 09:53:59.618891498,Coladeira-01,Cabeceira,falha-colagem,Médio,Noite,Falha de colagem na fita de borda,23.63
+OC00009,2025-03-06 04:09:02,2025-03-06 15:08:05.305206345,CNC-01,Cabeceira,erro-programa,Médio,Noite,Erro de programa no usinado CNC,10.98
+OC00010,2025-03-06 04:22:52,2025-03-07 05:21:03.743322119,Serra-02,Criado-mudo,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,24.97
+OC00011,2025-03-06 07:46:28,2025-03-07 17:20:57.554027792,Coladeira-02,Criado-mudo,bolha-fita,Médio,Tarde,Bolhas na fita de borda,33.57
+OC00012,2025-03-06 20:01:08,2025-03-07 11:31:10.651414891,Prensa-01,Painel de TV,pressao-fora-padrao,Médio,Manhã,Pressão fora do padrão na prensagem,15.5
+OC00013,2025-03-07 06:38:32,2025-03-07 13:48:08.364541723,Serra-02,Painel de TV,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,7.16
+OC00014,2025-03-07 11:20:48,2025-03-07 20:55:34.175081660,Furadeira-01,Criado-mudo,broca-quebrada,Médio,Tarde,Quebra de broca durante a furação,9.58
+OC00015,2025-03-07 19:02:54,2025-03-08 11:31:03.673682290,Furadeira-01,Guarda-roupa,broca-quebrada,Médio,Tarde,Quebra de broca durante a furação,16.47
+OC00016,2025-03-07 23:07:33,2025-03-09 11:04:40.539647578,Seccionadora-01,Gaveteiro,lascamento,Baixo,Noite,Lascamento na borda do painel,35.95
+OC00017,2025-03-08 10:26:42,2025-03-09 12:11:07.771165524,Serra-02,Gaveteiro,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,25.74
+OC00018,2025-03-10 02:17:05,2025-03-11 21:19:47.907621985,Serra-01,Painel de TV,parada-nao-programada,Médio,Noite,Parada não programada do disco de corte,43.05
+OC00019,2025-03-10 10:08:44,2025-03-10 17:40:07.843334459,Embaladora-01,Cômoda,falha-embalagem,Alto,Tarde,Falha no filme de embalagem,7.52
+OC00020,2025-03-10 19:40:31,2025-03-15 14:49:16.818074093,Seccionadora-01,Cabeceira,lascamento,Baixo,Noite,Lascamento na borda do painel,115.15
+OC00021,2025-03-10 20:26:47,2025-03-11 01:12:53.925755765,Serra-01,Cabeceira,corte-fora-esquadro,Alto,Tarde,Corte fora de esquadro no painel,4.77
+OC00022,2025-03-10 21:43:58,2025-03-15 05:55:36.109851696,Serra-02,Mesa de jantar,corte-fora-medida,Baixo,Tarde,Corte fora de medida na Serra-02,104.19
+OC00023,2025-03-11 03:51:23,2025-03-11 15:44:31.551290501,Serra-02,Gaveteiro,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,11.89
+OC00024,2025-03-11 09:21:41,2025-03-11 13:59:14.969478191,Prensa-01,Criado-mudo,pressao-fora-padrao,Alto,Tarde,Pressão fora do padrão na prensagem,4.63
+OC00025,2025-03-11 13:47:48,2025-03-11 17:31:43.576271560,CNC-01,Criado-mudo,erro-programa,Alto,Manhã,Erro de programa no usinado CNC,3.73
+OC00026,2025-03-11 17:50:27,2025-03-12 22:45:28.246297163,Serra-02,Painel de TV,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,28.92
+OC00027,2025-03-11 18:44:24,2025-03-11 21:30:50.590049047,Lixadeira-01,Criado-mudo,lixa-desgastada,Alto,Manhã,Lixa desgastada antes do previsto,2.77
+OC00028,2025-03-12 01:05:02,2025-03-13 14:08:49.369657546,Serra-01,Estante,corte-fora-esquadro,Médio,Manhã,Corte fora de esquadro no painel,37.06
+OC00029,2025-03-12 02:50:29,2025-03-12 18:50:51.856574674,Embaladora-01,Gaveteiro,falha-embalagem,Médio,Noite,Falha no filme de embalagem,16.01
+OC00030,2025-03-12 07:04:26,2025-03-12 15:17:21.998442966,Prensa-01,Painel de TV,delaminacao,Médio,Tarde,Delaminação do painel prensado,8.22
+OC00031,2025-03-12 08:20:58,2025-03-23 18:39:05.788686473,Prensa-01,Guarda-roupa,pressao-fora-padrao,Baixo,Manhã,Pressão fora do padrão na prensagem,274.3
+OC00032,2025-03-12 15:43:56,2025-03-13 21:51:26.433867256,CNC-01,Painel de TV,erro-programa,Médio,Noite,Erro de programa no usinado CNC,30.13
+OC00033,2025-03-12 16:59:17,2025-03-17 15:23:46.854556554,Seccionadora-01,Gaveteiro,corte-fora-medida,Baixo,Tarde,Divergência de medida no plano de corte,118.41
+OC00034,2025-03-12 21:21:37,2025-03-13 21:32:04.101720343,Furadeira-01,Cabeceira,broca-quebrada,Médio,Manhã,Quebra de broca durante a furação,24.17
+OC00035,2025-03-13 00:51:36,2025-03-13 15:28:29.074192976,CNC-01,Criado-mudo,desgaste-ferramenta,Médio,Noite,Desgaste de ferramenta no usinado,14.61
+OC00036,2025-03-13 03:40:57,2025-03-13 05:59:19.737880646,Coladeira-01,Gaveteiro,falha-colagem,Alto,Tarde,Falha de colagem na fita de borda,2.31
+OC00037,2025-03-13 09:29:08,2025-03-13 11:26:43.231526222,Prensa-01,Painel de TV,pressao-fora-padrao,Alto,Tarde,Pressão fora do padrão na prensagem,1.96
+OC00038,2025-03-13 16:28:31,2025-03-13 21:21:12.107535699,Serra-02,Estante,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,4.88
+OC00039,2025-03-13 16:55:47,2025-03-14 18:24:20.919315052,Coladeira-02,Estante,bolha-fita,Médio,Noite,Bolhas na fita de borda,25.48
+OC00040,2025-03-13 20:25:55,2025-03-14 09:53:59.136285890,Seccionadora-01,Gaveteiro,corte-fora-medida,Médio,Tarde,Divergência de medida no plano de corte,13.47
+OC00041,2025-03-13 23:35:30,2025-03-15 04:41:11.715105716,Lixadeira-01,Estante,lixa-desgastada,Médio,Manhã,Lixa desgastada antes do previsto,29.09
+OC00042,2025-03-14 01:40:42,2025-03-15 06:48:26.197327970,Prensa-01,Estante,pressao-fora-padrao,Médio,Tarde,Pressão fora do padrão na prensagem,29.13
+OC00043,2025-03-14 03:55:33,2025-03-15 16:01:14.098454303,Serra-01,Cabeceira,corte-fora-esquadro,Baixo,Tarde,Corte fora de esquadro no painel,36.09
+OC00044,2025-03-14 04:40:58,2025-03-14 14:00:37.625435827,Furadeira-01,Cabeceira,furo-descentralizado,Alto,Manhã,Furo descentralizado no painel,9.33
+OC00045,2025-03-14 07:38:29,2025-03-18 05:32:16.529029941,Serra-01,Gaveteiro,corte-fora-esquadro,Baixo,Tarde,Corte fora de esquadro no painel,93.9
+OC00046,2025-03-14 20:27:05,2025-03-19 16:31:06.910988064,Serra-01,Estante,corte-fora-esquadro,Baixo,Manhã,Corte fora de esquadro no painel,116.07
+OC00047,2025-03-15 05:33:02,2025-03-16 06:07:02.994421558,Seccionadora-01,Gaveteiro,corte-fora-medida,Médio,Noite,Divergência de medida no plano de corte,24.57
+OC00048,2025-03-15 16:22:55,2025-03-16 04:29:46.909867649,CNC-01,Cômoda,desgaste-ferramenta,Médio,Tarde,Desgaste de ferramenta no usinado,12.11
+OC00049,2025-03-15 18:40:32,2025-03-15 22:56:56.325422788,Embaladora-01,Gaveteiro,falha-embalagem,Alto,Noite,Falha no filme de embalagem,4.27
+OC00050,2025-03-16 04:26:56,2025-03-16 15:18:00.840803129,Coladeira-02,Estante,bolha-fita,Alto,Tarde,Bolhas na fita de borda,10.85
+OC00051,2025-03-16 12:08:04,2025-03-19 01:10:39.291023303,Serra-02,Cabeceira,corte-fora-medida,Baixo,Tarde,Corte fora de medida na Serra-02,61.04
+OC00052,2025-03-16 15:42:22,2025-03-16 18:37:14.424537653,Serra-02,Estante,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,2.91
+OC00053,2025-03-16 16:52:22,2025-03-17 02:53:54.828339784,Lixadeira-01,Painel de TV,acabamento-irregular,Médio,Tarde,Acabamento irregular na superfície,10.03
+OC00054,2025-03-16 16:59:44,2025-03-21 18:55:55.772657850,Seccionadora-01,Cômoda,lascamento,Baixo,Noite,Lascamento na borda do painel,121.94
+OC00055,2025-03-17 06:32:50,2025-03-18 15:53:34.763644617,Embaladora-01,Cômoda,etiqueta-ilegivel,Médio,Tarde,Etiqueta ilegível na expedição,33.35
+OC00056,2025-03-17 10:11:40,2025-03-18 18:58:31.729234471,Furadeira-01,Guarda-roupa,furo-descentralizado,Médio,Manhã,Furo descentralizado no painel,32.78
+OC00057,2025-03-17 15:40:35,2025-03-19 07:02:05.331649192,Coladeira-02,Painel de TV,bolha-fita,Médio,Manhã,Bolhas na fita de borda,39.36
+OC00058,2025-03-17 21:00:07,2025-03-18 02:31:02.169445333,Seccionadora-01,Criado-mudo,corte-fora-medida,Médio,Noite,Divergência de medida no plano de corte,5.52
+OC00059,2025-03-18 07:00:33,2025-03-20 06:47:44.099626362,Embaladora-01,Estante,falha-embalagem,Médio,Manhã,Falha no filme de embalagem,47.79
+OC00060,2025-03-19 07:36:32,2025-03-20 03:44:14.756311540,Coladeira-01,Guarda-roupa,falha-colagem,Médio,Noite,Falha de colagem na fita de borda,20.13
+OC00061,2025-03-19 10:45:27,2025-03-21 12:15:14.776703328,Lixadeira-01,Gaveteiro,lixa-desgastada,Baixo,Tarde,Lixa desgastada antes do previsto,49.5
+OC00062,2025-03-19 23:30:05,2025-03-20 10:57:26.408924903,Coladeira-02,Estante,cola-temperatura,Crítico,Noite,Cola fora da temperatura de trabalho,11.46
+OC00063,2025-03-20 04:04:30,2025-03-20 19:36:55.732823062,Embaladora-01,Cômoda,etiqueta-ilegivel,Médio,Manhã,Etiqueta ilegível na expedição,15.54
+OC00064,2025-03-20 18:43:43,2025-03-20 22:03:57.111235744,Serra-02,Painel de TV,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,3.34
+OC00065,2025-03-20 23:19:23,2025-03-21 12:12:46.133635909,Coladeira-02,Painel de TV,cola-temperatura,Baixo,Tarde,Cola fora da temperatura de trabalho,12.89
+OC00066,2025-03-21 00:00:44,2025-03-21 06:57:24.048624266,Furadeira-01,Estante,furo-descentralizado,Alto,Manhã,Furo descentralizado no painel,6.94
+OC00067,2025-03-21 11:13:10,2025-03-21 13:28:44.058331230,Furadeira-01,Estante,furo-descentralizado,Alto,Tarde,Furo descentralizado no painel,2.26
+OC00068,2025-03-21 14:09:52,2025-03-22 15:38:01.564139098,Coladeira-02,Gaveteiro,bolha-fita,Médio,Noite,Bolhas na fita de borda,25.47
+OC00069,2025-03-21 18:18:07,2025-03-23 01:48:39.797739507,Serra-01,Estante,parada-nao-programada,Baixo,Manhã,Parada não programada do disco de corte,31.51
+OC00070,2025-03-21 21:28:21,2025-04-01 10:41:39.101359651,Furadeira-01,Mesa de jantar,broca-quebrada,Baixo,Noite,Quebra de broca durante a furação,253.22
+OC00071,2025-03-22 16:43:20,2025-03-22 22:45:30.873319128,Serra-02,Estante,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,6.04
+OC00072,2025-03-22 20:32:09,2025-03-23 05:14:58.335169511,Serra-02,Mesa de jantar,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,8.71
+OC00073,2025-03-23 22:19:45,2025-03-24 10:35:20.575178813,Furadeira-01,Guarda-roupa,furo-descentralizado,Médio,Tarde,Furo descentralizado no painel,12.26
+OC00074,2025-03-24 00:50:34,2025-03-25 01:31:21.566005898,Coladeira-02,Cômoda,cola-temperatura,Médio,Manhã,Cola fora da temperatura de trabalho,24.68
+OC00075,2025-03-24 06:38:13,2025-03-24 17:48:01.298927782,Serra-02,Estante,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,11.16
+OC00076,2025-03-24 07:42:33,2025-03-25 03:00:41.089784008,Serra-02,Cômoda,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,19.3
+OC00077,2025-03-24 19:33:04,2025-03-25 14:02:00.002493586,Embaladora-01,Criado-mudo,etiqueta-ilegivel,Médio,Noite,Etiqueta ilegível na expedição,18.48
+OC00078,2025-03-25 05:50:52,2025-03-25 15:07:45.998462009,Prensa-01,Gaveteiro,delaminacao,Alto,Noite,Delaminação do painel prensado,9.28
+OC00079,2025-03-25 12:07:13,2025-03-26 23:03:08.797612371,Serra-02,Gaveteiro,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,34.93
+OC00080,2025-03-25 23:48:12,2025-03-28 05:41:45.136219643,Furadeira-01,Cabeceira,broca-quebrada,Baixo,Tarde,Quebra de broca durante a furação,53.89
+OC00081,2025-03-26 03:33:00,2025-03-26 13:24:21.110582931,Coladeira-01,Guarda-roupa,falha-colagem,Alto,Manhã,Falha de colagem na fita de borda,9.86
+OC00082,2025-03-26 04:44:38,2025-03-26 15:57:39.155626198,Serra-01,Mesa de jantar,parada-nao-programada,Alto,Tarde,Parada não programada do disco de corte,11.22
+OC00083,2025-03-26 08:40:42,2025-03-28 11:26:54.523612362,Coladeira-02,Estante,bolha-fita,Médio,Manhã,Bolhas na fita de borda,50.77
+OC00084,2025-03-26 11:24:48,2025-03-30 13:10:55.525262127,Serra-01,Guarda-roupa,corte-fora-esquadro,Baixo,Noite,Corte fora de esquadro no painel,97.77
+OC00085,2025-03-27 07:44:23,2025-03-31 11:59:04.281963631,Serra-01,Cômoda,corte-fora-esquadro,Médio,Manhã,Corte fora de esquadro no painel,100.24
+OC00086,2025-03-27 16:28:04,2025-03-28 08:39:29.579557076,Lixadeira-01,Painel de TV,lixa-desgastada,Médio,Noite,Lixa desgastada antes do previsto,16.19
+OC00087,2025-03-28 08:49:46,2025-03-29 02:09:16.049062650,Lixadeira-01,Cômoda,lixa-desgastada,Médio,Tarde,Lixa desgastada antes do previsto,17.33
+OC00088,2025-03-29 02:26:43,2025-03-29 21:02:44.875773601,Coladeira-02,Painel de TV,bolha-fita,Médio,Tarde,Bolhas na fita de borda,18.6
+OC00089,2025-03-29 03:03:42,2025-03-29 05:53:58.286200102,Serra-02,Estante,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,2.84
+OC00090,2025-03-29 15:55:08,2025-04-01 16:52:08.822359399,Serra-02,Estante,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,72.95
+OC00091,2025-03-30 05:52:30,2025-03-30 20:08:26.141089870,Lixadeira-01,Cômoda,lixa-desgastada,Médio,Manhã,Lixa desgastada antes do previsto,14.27
+OC00092,2025-03-30 12:25:25,2025-04-02 05:27:09.614654887,Serra-01,Estante,parada-nao-programada,Baixo,Manhã,Parada não programada do disco de corte,65.03
+OC00093,2025-03-30 18:56:10,2025-04-02 10:35:10.975976261,Serra-02,Estante,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,63.65
+OC00094,2025-03-31 08:39:29,2025-04-04 07:00:36.569373143,Prensa-01,Guarda-roupa,pressao-fora-padrao,Médio,Manhã,Pressão fora do padrão na prensagem,94.35
+OC00095,2025-03-31 10:58:40,2025-04-06 23:58:15.862145660,Serra-02,Mesa de jantar,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,156.99
+OC00096,2025-04-01 04:50:50,2025-04-01 09:35:47.752778710,Serra-01,Guarda-roupa,corte-fora-esquadro,Alto,Tarde,Corte fora de esquadro no painel,4.75
+OC00097,2025-04-01 13:28:09,2025-04-05 07:09:43.525400985,Furadeira-01,Estante,broca-quebrada,Baixo,Manhã,Quebra de broca durante a furação,89.69
+OC00098,2025-04-01 21:31:40,2025-04-02 06:37:52.595798345,Lixadeira-01,Cômoda,lixa-desgastada,Médio,Tarde,Lixa desgastada antes do previsto,9.1
+OC00099,2025-04-02 03:09:43,2025-04-03 10:34:10.175484123,Coladeira-02,Cômoda,cola-temperatura,Médio,Tarde,Cola fora da temperatura de trabalho,31.41
+OC00100,2025-04-02 08:13:19,2025-04-02 21:24:54.718932837,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,13.19
+OC00101,2025-04-02 10:17:47,2025-04-03 17:31:42.788909078,Embaladora-01,Estante,etiqueta-ilegivel,Médio,Manhã,Etiqueta ilegível na expedição,31.23
+OC00102,2025-04-02 10:39:16,2025-04-03 22:41:22.514129405,Prensa-01,Criado-mudo,pressao-fora-padrao,Médio,Manhã,Pressão fora do padrão na prensagem,36.04
+OC00103,2025-04-02 12:29:07,2025-04-04 13:52:44.957135538,Embaladora-01,Estante,falha-embalagem,Baixo,Tarde,Falha no filme de embalagem,49.39
+OC00104,2025-04-02 16:50:52,2025-04-03 19:40:13.785282475,Coladeira-01,Painel de TV,falha-colagem,Médio,Tarde,Falha de colagem na fita de borda,26.82
+OC00105,2025-04-03 11:40:06,2025-04-04 00:51:24.476681915,Lixadeira-01,Mesa de jantar,acabamento-irregular,Médio,Tarde,Acabamento irregular na superfície,13.19
+OC00106,2025-04-03 13:07:32,2025-04-03 23:12:15.132475324,Serra-02,Cômoda,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,10.08
+OC00107,2025-04-04 01:04:57,2025-04-05 10:14:55.973472536,Lixadeira-01,Criado-mudo,acabamento-irregular,Baixo,Manhã,Acabamento irregular na superfície,33.17
+OC00108,2025-04-04 02:51:17,2025-04-04 16:28:16.185528814,Seccionadora-01,Criado-mudo,corte-fora-medida,Alto,Manhã,Divergência de medida no plano de corte,13.62
+OC00109,2025-04-04 19:53:06,2025-04-05 14:37:53.205056973,Serra-01,Painel de TV,parada-nao-programada,Médio,Tarde,Parada não programada do disco de corte,18.75
+OC00110,2025-04-04 22:14:32,2025-04-05 19:53:40.548130572,Coladeira-02,Criado-mudo,bolha-fita,Médio,Noite,Bolhas na fita de borda,21.65
+OC00111,2025-04-05 04:15:36,2025-04-06 17:39:40.137457603,Embaladora-01,Mesa de jantar,etiqueta-ilegivel,Médio,Manhã,Etiqueta ilegível na expedição,37.4
+OC00112,2025-04-05 06:33:44,2025-04-05 14:27:14.654178476,CNC-01,Mesa de jantar,erro-programa,Alto,Manhã,Erro de programa no usinado CNC,7.89
+OC00113,2025-04-05 19:13:15,2025-04-07 21:02:02.525206058,Serra-01,Guarda-roupa,parada-nao-programada,Baixo,Tarde,Parada não programada do disco de corte,49.81
+OC00114,2025-04-05 22:01:02,2025-04-05 23:58:37.423775280,Coladeira-02,Gaveteiro,cola-temperatura,Alto,Tarde,Cola fora da temperatura de trabalho,1.96
+OC00115,2025-04-06 02:53:44,2025-04-07 12:21:32.715581875,Serra-01,Criado-mudo,corte-fora-esquadro,Baixo,Manhã,Corte fora de esquadro no painel,33.46
+OC00116,2025-04-06 03:18:25,2025-04-06 09:28:57.867770978,Furadeira-01,Mesa de jantar,broca-quebrada,Alto,Noite,Quebra de broca durante a furação,6.18
+OC00117,2025-04-06 07:11:59,2025-04-07 02:11:40.464011326,Serra-02,Criado-mudo,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,18.99
+OC00118,2025-04-06 10:21:06,2025-04-06 23:20:53.660649417,Furadeira-01,Gaveteiro,furo-descentralizado,Médio,Tarde,Furo descentralizado no painel,13.0
+OC00119,2025-04-06 14:52:19,2025-04-08 23:39:17.174311943,Embaladora-01,Criado-mudo,falha-embalagem,Médio,Noite,Falha no filme de embalagem,56.78
+OC00120,2025-04-06 15:51:15,2025-04-09 01:35:56.750440434,Serra-02,Cômoda,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,57.74
+OC00121,2025-04-07 01:33:32,2025-04-10 09:05:07.991461888,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,79.53
+OC00122,2025-04-07 04:55:45,2025-04-07 20:34:14.051056180,Furadeira-01,Criado-mudo,furo-descentralizado,Médio,Noite,Furo descentralizado no painel,15.64
+OC00123,2025-04-07 05:38:46,2025-04-08 17:28:07.728829287,Furadeira-01,Mesa de jantar,broca-quebrada,Baixo,Noite,Quebra de broca durante a furação,35.82
+OC00124,2025-04-07 12:52:07,2025-04-10 06:37:48.502211971,Lixadeira-01,Cabeceira,lixa-desgastada,Baixo,Manhã,Lixa desgastada antes do previsto,65.76
+OC00125,2025-04-07 20:42:22,2025-04-08 03:45:21.997874114,Seccionadora-01,Guarda-roupa,corte-fora-medida,Alto,Manhã,Divergência de medida no plano de corte,7.05
+OC00126,2025-04-07 23:23:09,2025-04-12 10:13:58.592591661,Seccionadora-01,Guarda-roupa,corte-fora-medida,Baixo,Manhã,Divergência de medida no plano de corte,106.85
+OC00127,2025-04-08 07:04:26,2025-04-08 17:00:14.342309804,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,9.93
+OC00128,2025-04-08 19:22:42,2025-04-09 21:59:12.534497951,Prensa-01,Criado-mudo,delaminacao,Médio,Tarde,Delaminação do painel prensado,26.61
+OC00129,2025-04-08 21:49:45,2025-04-09 10:44:53.266615173,Prensa-01,Cabeceira,pressao-fora-padrao,Médio,Manhã,Pressão fora do padrão na prensagem,12.92
+OC00130,2025-04-09 00:06:28,2025-04-11 01:45:04.437909999,Serra-01,Cabeceira,parada-nao-programada,Baixo,Noite,Parada não programada do disco de corte,49.64
+OC00131,2025-04-09 05:54:38,2025-04-09 09:56:33.433336986,Coladeira-01,Mesa de jantar,falha-colagem,Alto,Noite,Falha de colagem na fita de borda,4.03
+OC00132,2025-04-09 15:54:02,2025-04-10 07:26:18.719613790,CNC-01,Painel de TV,desgaste-ferramenta,Médio,Noite,Desgaste de ferramenta no usinado,15.54
+OC00133,2025-04-09 16:27:00,2025-04-10 09:56:03.474495878,Prensa-01,Guarda-roupa,pressao-fora-padrao,Médio,Tarde,Pressão fora do padrão na prensagem,17.48
+OC00134,2025-04-10 08:56:03,2025-04-10 11:31:54.530938274,Prensa-01,Cômoda,incendio,Crítico,Noite,Incêndio no painel elétrico (evento isolado),2.6
+OC00135,2025-04-10 10:05:20,2025-04-11 09:50:14.323328817,Embaladora-01,Criado-mudo,etiqueta-ilegivel,Médio,Noite,Etiqueta ilegível na expedição,23.75
+OC00136,2025-04-10 13:32:17,2025-04-12 00:37:22.354629531,Seccionadora-01,Painel de TV,lascamento,Médio,Tarde,Lascamento na borda do painel,35.08
+OC00137,2025-04-10 19:08:24,2025-04-11 18:03:05.495228214,Furadeira-01,Gaveteiro,furo-descentralizado,Médio,Manhã,Furo descentralizado no painel,22.91
+OC00138,2025-04-10 19:44:31,2025-04-11 21:55:48.406956588,Lixadeira-01,Guarda-roupa,lixa-desgastada,Baixo,Manhã,Lixa desgastada antes do previsto,26.19
+OC00139,2025-04-11 03:54:21,2025-04-11 17:56:58.398907625,Furadeira-01,Gaveteiro,broca-quebrada,Médio,Noite,Quebra de broca durante a furação,14.04
+OC00140,2025-04-11 04:41:30,2025-04-13 15:11:25.440169848,Furadeira-01,Painel de TV,furo-descentralizado,Médio,Manhã,Furo descentralizado no painel,58.5
+OC00141,2025-04-11 20:48:11,2025-04-21 19:27:50.516205029,Furadeira-01,Guarda-roupa,broca-quebrada,Baixo,Manhã,Quebra de broca durante a furação,238.66
+OC00142,2025-04-12 03:04:23,2025-04-13 13:51:01.703678798,CNC-01,Mesa de jantar,erro-programa,Médio,Tarde,Erro de programa no usinado CNC,34.78
+OC00143,2025-04-12 11:51:48,2025-04-13 16:45:32.101543613,Prensa-01,Estante,delaminacao,Médio,Tarde,Delaminação do painel prensado,28.9
+OC00144,2025-04-12 15:44:44,2025-04-12 18:59:01.852630459,Coladeira-02,Mesa de jantar,bolha-fita,Alto,Noite,Bolhas na fita de borda,3.24
+OC00145,2025-04-13 04:51:00,2025-04-13 23:39:02.078569216,Lixadeira-01,Cômoda,lixa-desgastada,Médio,Noite,Lixa desgastada antes do previsto,18.8
+OC00146,2025-04-13 07:10:16,2025-04-13 10:53:14.017068384,Serra-02,Estante,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,3.72
+OC00147,2025-04-13 20:17:43,2025-04-16 15:20:53.744937330,Serra-02,Criado-mudo,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,67.05
+OC00148,2025-04-13 23:00:32,2025-04-15 21:24:31.236786395,Seccionadora-01,Guarda-roupa,lascamento,Baixo,Tarde,Lascamento na borda do painel,46.4
+OC00149,2025-04-14 02:51:10,2025-04-14 12:19:12.615581949,Serra-02,Mesa de jantar,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,9.47
+OC00150,2025-04-14 08:15:33,2025-04-14 21:47:43.326138087,Coladeira-02,Guarda-roupa,bolha-fita,Alto,Manhã,Bolhas na fita de borda,13.54
+OC00151,2025-04-14 13:01:40,2025-04-16 03:42:21.204408846,Serra-02,Cômoda,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,38.68
+OC00152,2025-04-14 21:58:01,2025-04-15 19:35:07.659184376,Prensa-01,Estante,pressao-fora-padrao,Médio,Manhã,Pressão fora do padrão na prensagem,21.62
+OC00153,2025-04-14 23:07:01,2025-04-20 05:01:56.292166629,Serra-02,Mesa de jantar,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,125.92
+OC00154,2025-04-15 18:59:41,2025-04-21 22:46:57.377832423,Coladeira-02,Estante,cola-temperatura,Baixo,Tarde,Cola fora da temperatura de trabalho,147.79
+OC00155,2025-04-15 23:00:08,2025-04-17 06:09:27.082019235,Prensa-01,Criado-mudo,delaminacao,Médio,Manhã,Delaminação do painel prensado,31.16
+OC00156,2025-04-16 11:28:14,2025-04-17 17:16:03.320102880,Furadeira-01,Estante,broca-quebrada,Médio,Noite,Quebra de broca durante a furação,29.8
+OC00157,2025-04-16 15:01:27,2025-04-17 18:27:41.109556053,Coladeira-01,Mesa de jantar,falha-colagem,Médio,Tarde,Falha de colagem na fita de borda,27.44
+OC00158,2025-04-16 21:43:57,2025-04-17 13:56:06.913542569,Serra-02,Mesa de jantar,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,16.2
+OC00159,2025-04-17 07:41:46,2025-04-18 01:28:59.751829681,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,17.79
+OC00160,2025-04-17 09:30:28,2025-04-19 13:27:59.941959232,Lixadeira-01,Painel de TV,lixa-desgastada,Médio,Noite,Lixa desgastada antes do previsto,51.96
+OC00161,2025-04-17 12:28:09,2025-04-18 06:54:02.403332313,CNC-01,Cabeceira,erro-programa,Médio,Manhã,Erro de programa no usinado CNC,18.43
+OC00162,2025-04-17 19:50:34,2025-04-19 07:17:44.207547279,CNC-01,Criado-mudo,desgaste-ferramenta,Médio,Noite,Desgaste de ferramenta no usinado,35.45
+OC00163,2025-04-18 03:23:25,2025-04-19 08:04:46.392230456,Serra-02,Cabeceira,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,28.69
+OC00164,2025-04-18 18:47:27,2025-04-20 07:23:20.335704750,Serra-01,Cabeceira,parada-nao-programada,Baixo,Noite,Parada não programada do disco de corte,36.6
+OC00165,2025-04-18 19:15:55,2025-04-21 09:08:52.939755767,Seccionadora-01,Mesa de jantar,lascamento,Baixo,Tarde,Lascamento na borda do painel,61.88
+OC00166,2025-04-19 12:56:04,2025-04-26 09:53:32.668758771,Serra-01,Gaveteiro,parada-nao-programada,Baixo,Tarde,Parada não programada do disco de corte,164.96
+OC00167,2025-04-19 21:16:38,2025-04-21 07:15:28.250805758,Coladeira-02,Cômoda,bolha-fita,Médio,Noite,Bolhas na fita de borda,33.98
+OC00168,2025-04-19 21:24:21,2025-04-20 03:45:45.572520309,Serra-02,Cômoda,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,6.36
+OC00169,2025-04-19 23:50:02,2025-04-20 03:51:41.228919352,Furadeira-01,Cabeceira,furo-descentralizado,Crítico,Tarde,Furo descentralizado no painel,4.03
+OC00170,2025-04-20 01:12:09,2025-04-20 19:09:11.949095987,CNC-01,Mesa de jantar,desgaste-ferramenta,Médio,Noite,Desgaste de ferramenta no usinado,17.95
+OC00171,2025-04-20 09:50:28,2025-04-20 13:16:27.111511854,Seccionadora-01,Estante,corte-fora-medida,Alto,Tarde,Divergência de medida no plano de corte,3.43
+OC00172,2025-04-20 10:54:25,2025-04-29 05:02:43.844441827,Furadeira-01,Cabeceira,furo-descentralizado,Baixo,Noite,Furo descentralizado no painel,210.14
+OC00173,2025-04-21 00:36:08,2025-04-21 04:12:42.676277851,Serra-02,Painel de TV,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,3.61
+OC00174,2025-04-21 01:04:29,2025-04-21 15:06:17.996273058,Serra-02,Cômoda,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,14.03
+OC00175,2025-04-21 01:34:21,2025-04-21 22:50:40.152803941,Furadeira-01,Estante,furo-descentralizado,Médio,Noite,Furo descentralizado no painel,21.27
+OC00176,2025-04-21 22:26:56,2025-04-23 15:50:46.128729870,Coladeira-02,Estante,bolha-fita,Médio,Tarde,Bolhas na fita de borda,41.4
+OC00177,2025-04-22 03:55:17,2025-04-23 03:36:11.337863677,Lixadeira-01,Painel de TV,acabamento-irregular,Médio,Tarde,Acabamento irregular na superfície,23.68
+OC00178,2025-04-22 06:10:43,2025-04-25 02:26:34.803030950,Coladeira-02,Gaveteiro,bolha-fita,Baixo,Manhã,Bolhas na fita de borda,68.26
+OC00179,2025-04-22 08:59:13,2025-04-26 17:04:26.684928157,Embaladora-01,Guarda-roupa,etiqueta-ilegivel,Baixo,Manhã,Etiqueta ilegível na expedição,104.09
+OC00180,2025-04-22 11:04:53,2025-04-22 14:09:54.018364223,CNC-01,Cabeceira,desgaste-ferramenta,Alto,Noite,Desgaste de ferramenta no usinado,3.08
+OC00181,2025-04-22 11:58:47,2025-04-23 15:44:18.579875714,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,27.76
+OC00182,2025-04-22 18:48:42,2025-04-27 03:34:35.054522827,Serra-01,Estante,parada-nao-programada,Baixo,Tarde,Parada não programada do disco de corte,104.76
+OC00183,2025-04-22 18:58:39,2025-04-23 03:31:31.235003970,Prensa-01,Mesa de jantar,delaminacao,Alto,Manhã,Delaminação do painel prensado,8.55
+OC00184,2025-04-23 05:49:10,2025-04-23 19:36:52.782557193,Lixadeira-01,Estante,acabamento-irregular,Médio,Noite,Acabamento irregular na superfície,13.8
+OC00185,2025-04-23 12:12:51,2025-04-25 03:33:24.049568835,Embaladora-01,Criado-mudo,etiqueta-ilegivel,Médio,Noite,Etiqueta ilegível na expedição,39.34
+OC00186,2025-04-23 17:53:05,2025-04-24 09:35:50.640364014,Coladeira-02,Cômoda,bolha-fita,Alto,Tarde,Bolhas na fita de borda,15.71
+OC00187,2025-04-23 21:28:05,2025-04-24 09:01:27.265105097,Furadeira-01,Painel de TV,furo-descentralizado,Alto,Noite,Furo descentralizado no painel,11.56
+OC00188,2025-04-24 01:08:13,2025-04-24 10:35:23.651153328,CNC-01,Cômoda,desgaste-ferramenta,Alto,Manhã,Desgaste de ferramenta no usinado,9.45
+OC00189,2025-04-24 13:23:58,2025-04-25 12:35:43.939342240,Coladeira-01,Cômoda,falha-colagem,Médio,Noite,Falha de colagem na fita de borda,23.2
+OC00190,2025-04-24 13:36:53,2025-04-24 19:35:52.182689113,Serra-02,Criado-mudo,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,5.98
+OC00191,2025-04-25 00:55:30,2025-04-25 05:54:01.574012769,Embaladora-01,Painel de TV,etiqueta-ilegivel,Crítico,Noite,Etiqueta ilegível na expedição,4.98
+OC00192,2025-04-25 04:18:28,2025-04-29 08:47:36.499520762,Coladeira-02,Estante,bolha-fita,Baixo,Tarde,Bolhas na fita de borda,100.49
+OC00193,2025-04-25 06:42:11,2025-04-25 18:28:33.632314898,Serra-02,Cômoda,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,11.77
+OC00194,2025-04-25 11:59:00,2025-04-28 05:15:27.947445607,Serra-02,Cabeceira,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,65.27
+OC00195,2025-04-25 12:12:03,2025-04-27 17:44:39.269841631,Serra-02,Painel de TV,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,53.54
+OC00196,2025-04-25 22:15:36,2025-04-26 02:06:37.116566738,Serra-02,Painel de TV,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,3.85
+OC00197,2025-04-26 03:02:47,2025-04-30 07:33:42.560758082,Lixadeira-01,Gaveteiro,lixa-desgastada,Baixo,Noite,Lixa desgastada antes do previsto,100.52
+OC00198,2025-04-26 07:39:33,2025-04-27 23:39:25.184056409,Embaladora-01,Cabeceira,etiqueta-ilegivel,Médio,Tarde,Etiqueta ilegível na expedição,40.0
+OC00199,2025-04-26 19:29:27,2025-04-27 06:34:57.948495893,Prensa-01,Cabeceira,delaminacao,Médio,Tarde,Delaminação do painel prensado,11.09
+OC00200,2025-04-27 06:56:37,2025-04-28 14:17:00.400267255,Prensa-01,Mesa de jantar,delaminacao,Médio,Manhã,Delaminação do painel prensado,31.34
+OC00201,2025-04-27 07:37:23,2025-04-28 13:04:05.483238002,Furadeira-01,Guarda-roupa,furo-descentralizado,Médio,Noite,Furo descentralizado no painel,29.45
+OC00202,2025-04-27 10:18:08,2025-04-28 00:59:26.925610429,Serra-02,Cabeceira,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,14.69
+OC00203,2025-04-27 19:02:50,2025-05-01 00:56:09.741761178,Prensa-01,Cômoda,pressao-fora-padrao,Baixo,Noite,Pressão fora do padrão na prensagem,77.89
+OC00204,2025-04-27 21:04:50,2025-04-30 16:10:29.603965499,Furadeira-01,Estante,furo-descentralizado,Baixo,Tarde,Furo descentralizado no painel,67.09
+OC00205,2025-04-27 23:34:17,2025-04-30 01:51:38.961569313,Lixadeira-01,Cabeceira,acabamento-irregular,Médio,Noite,Acabamento irregular na superfície,50.29
+OC00206,2025-04-28 07:39:35,2025-05-04 03:21:23.122173018,Coladeira-02,Painel de TV,bolha-fita,Baixo,Tarde,Bolhas na fita de borda,139.7
+OC00207,2025-04-28 22:14:07,2025-04-29 20:54:56.046647265,Serra-02,Estante,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,22.68
+OC00208,2025-04-28 22:23:50,2025-05-02 16:50:11.512317712,Serra-02,Gaveteiro,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,90.44
+OC00209,2025-04-29 04:36:54,2025-04-29 17:53:26.724880110,Serra-02,Gaveteiro,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,13.28
+OC00210,2025-04-29 19:35:07,2025-04-30 01:01:12.251594833,Furadeira-01,Gaveteiro,furo-descentralizado,Alto,Manhã,Furo descentralizado no painel,5.43
+OC00211,2025-04-29 22:41:32,2025-04-30 08:41:56.770749042,Serra-01,Estante,parada-nao-programada,Alto,Noite,Parada não programada do disco de corte,10.01
+OC00212,2025-04-30 03:51:14,2025-04-30 10:32:36.102801941,CNC-01,Gaveteiro,desgaste-ferramenta,Médio,Tarde,Desgaste de ferramenta no usinado,6.69
+OC00213,2025-04-30 06:00:44,2025-04-30 08:13:04.704261906,Serra-02,Gaveteiro,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,2.21
+OC00214,2025-04-30 12:58:00,2025-04-30 19:47:05.852355301,Serra-02,Guarda-roupa,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,6.82
+OC00215,2025-04-30 20:56:59,2025-05-05 20:07:40.447104218,Serra-01,Criado-mudo,parada-nao-programada,Baixo,Manhã,Parada não programada do disco de corte,119.18
+OC00216,2025-05-01 19:58:15,2025-05-08 09:22:23.399773601,CNC-01,Gaveteiro,erro-programa,Baixo,Noite,Erro de programa no usinado CNC,157.4
+OC00217,2025-05-01 23:37:34,2025-05-02 23:37:38.375048625,Serra-02,Cabeceira,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,24.0
+OC00218,2025-05-02 09:47:44,2025-05-03 09:50:19.311641950,Seccionadora-01,Estante,lascamento,Médio,Tarde,Lascamento na borda do painel,24.04
+OC00219,2025-05-02 10:45:25,2025-05-03 16:57:19.329202478,Furadeira-01,Mesa de jantar,furo-descentralizado,Baixo,Tarde,Furo descentralizado no painel,30.2
+OC00220,2025-05-02 12:29:11,2025-05-03 19:33:22.096498708,Coladeira-01,Gaveteiro,falha-colagem,Médio,Manhã,Falha de colagem na fita de borda,31.07
+OC00221,2025-05-02 12:44:39,2025-05-03 21:59:57.890527481,Serra-02,Cômoda,corte-fora-medida,Baixo,Tarde,Corte fora de medida na Serra-02,33.26
+OC00222,2025-05-02 14:21:55,2025-05-02 20:44:56.320744127,Serra-02,Cômoda,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,6.38
+OC00223,2025-05-02 21:29:42,2025-05-03 10:20:58.581976924,Lixadeira-01,Painel de TV,acabamento-irregular,Médio,Tarde,Acabamento irregular na superfície,12.85
+OC00224,2025-05-02 23:01:09,2025-05-03 10:54:08.015851454,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,11.88
+OC00225,2025-05-02 23:46:09,2025-05-03 16:54:17.520476782,Serra-01,Cômoda,parada-nao-programada,Médio,Noite,Parada não programada do disco de corte,17.14
+OC00226,2025-05-03 03:58:18,2025-05-03 14:56:38.691503140,Prensa-01,Painel de TV,delaminacao,Crítico,Tarde,Delaminação do painel prensado,10.97
+OC00227,2025-05-03 09:32:00,2025-05-05 03:07:21.146473090,Serra-01,Estante,parada-nao-programada,Médio,Noite,Parada não programada do disco de corte,41.59
+OC00228,2025-05-03 11:45:20,2025-05-04 02:56:45.227063869,Furadeira-01,Painel de TV,furo-descentralizado,Médio,Tarde,Furo descentralizado no painel,15.19
+OC00229,2025-05-03 16:32:42,2025-05-04 06:30:03.354183033,Serra-02,Guarda-roupa,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,13.96
+OC00230,2025-05-03 19:58:50,2025-05-04 02:45:24.442332348,Seccionadora-01,Cômoda,lascamento,Alto,Tarde,Lascamento na borda do painel,6.78
+OC00231,2025-05-03 21:26:42,2025-05-05 22:29:24.239804020,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,49.05
+OC00232,2025-05-04 08:07:03,2025-05-06 00:25:02.879527681,Serra-02,Mesa de jantar,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,40.3
+OC00233,2025-05-04 08:47:31,2025-05-07 04:12:14.822828829,Seccionadora-01,Painel de TV,corte-fora-medida,Baixo,Noite,Divergência de medida no plano de corte,67.41
+OC00234,2025-05-04 15:18:09,2025-05-05 23:35:50.650903454,Prensa-01,Guarda-roupa,pressao-fora-padrao,Alto,Tarde,Pressão fora do padrão na prensagem,32.29
+OC00235,2025-05-04 19:14:00,2025-05-07 09:33:39.237809157,Coladeira-02,Estante,bolha-fita,Baixo,Manhã,Bolhas na fita de borda,62.33
+OC00236,2025-05-04 23:36:07,2025-05-08 09:37:31.317805502,CNC-01,Estante,desgaste-ferramenta,Baixo,Manhã,Desgaste de ferramenta no usinado,82.02
+OC00237,2025-05-05 05:50:46,2025-05-08 03:21:59.224269476,Serra-01,Guarda-roupa,corte-fora-esquadro,Baixo,Manhã,Corte fora de esquadro no painel,69.52
+OC00238,2025-05-05 10:42:20,2025-05-12 17:24:40.177572883,Prensa-01,Criado-mudo,delaminacao,Baixo,Manhã,Delaminação do painel prensado,174.71
+OC00239,2025-05-05 20:00:31,2025-05-06 16:49:45.219245796,Serra-02,Estante,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,20.82
+OC00240,2025-05-05 20:59:02,2025-05-07 03:03:30.504829857,Serra-01,Guarda-roupa,corte-fora-esquadro,Médio,Manhã,Corte fora de esquadro no painel,30.07
+OC00241,2025-05-06 04:51:37,2025-05-07 01:11:10.106755548,Furadeira-01,Cabeceira,broca-quebrada,Baixo,Noite,Quebra de broca durante a furação,20.33
+OC00242,2025-05-06 14:48:07,2025-05-08 23:09:17.285704465,Coladeira-02,Cabeceira,bolha-fita,Baixo,Tarde,Bolhas na fita de borda,56.35
+OC00243,2025-05-06 20:02:34,2025-05-07 20:28:12.861835853,Lixadeira-01,Cômoda,lixa-desgastada,Médio,Noite,Lixa desgastada antes do previsto,24.43
+OC00244,2025-05-07 00:03:19,2025-05-07 20:38:24.402139034,Lixadeira-01,Criado-mudo,acabamento-irregular,Médio,Tarde,Acabamento irregular na superfície,20.58
+OC00245,2025-05-07 01:28:01,2025-05-07 09:49:53.928756326,Serra-02,Cômoda,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,8.36
+OC00246,2025-05-07 06:07:21,2025-05-09 03:03:52.268870000,CNC-01,Painel de TV,desgaste-ferramenta,Médio,Manhã,Desgaste de ferramenta no usinado,44.94
+OC00247,2025-05-07 17:44:13,2025-05-08 14:22:09.992642054,Serra-02,Cômoda,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,20.63
+OC00248,2025-05-07 19:45:18,2025-05-08 16:29:16.018570500,Serra-01,Cômoda,corte-fora-esquadro,Médio,Tarde,Corte fora de esquadro no painel,20.73
+OC00249,2025-05-08 02:03:48,2025-05-08 16:48:28.073973557,Prensa-01,Cômoda,pressao-fora-padrao,Alto,Tarde,Pressão fora do padrão na prensagem,14.74
+OC00250,2025-05-08 07:41:48,2025-05-11 20:02:24.203899283,Serra-02,Gaveteiro,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,84.34
+OC00251,2025-05-08 12:36:07,2025-05-08 17:53:42.428427482,Furadeira-01,Cômoda,furo-descentralizado,Alto,Tarde,Furo descentralizado no painel,5.29
+OC00252,2025-05-09 03:08:47,2025-05-10 10:07:00.602689454,Furadeira-01,Cômoda,furo-descentralizado,Médio,Manhã,Furo descentralizado no painel,30.97
+OC00253,2025-05-09 09:12:51,2025-05-10 20:59:41.047297761,Coladeira-01,Guarda-roupa,falha-colagem,Médio,Tarde,Falha de colagem na fita de borda,35.78
+OC00254,2025-05-09 21:38:21,2025-05-11 10:36:19.213117200,Furadeira-01,Criado-mudo,broca-quebrada,Baixo,Manhã,Quebra de broca durante a furação,36.97
+OC00255,2025-05-10 00:50:36,2025-05-11 15:13:13.989430478,Serra-02,Cômoda,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,38.38
+OC00256,2025-05-10 04:01:30,2025-05-10 20:01:32.306413769,Serra-02,Cômoda,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,16.0
+OC00257,2025-05-10 20:28:48,2025-05-11 03:59:16.310438578,Coladeira-02,Mesa de jantar,cola-temperatura,Médio,Noite,Cola fora da temperatura de trabalho,7.51
+OC00258,2025-05-11 03:05:48,2025-05-12 01:36:55.206249214,Embaladora-01,Cômoda,falha-embalagem,Médio,Tarde,Falha no filme de embalagem,22.52
+OC00259,2025-05-11 04:32:41,2025-05-11 16:44:59.675788443,Seccionadora-01,Mesa de jantar,lascamento,Médio,Tarde,Lascamento na borda do painel,12.21
+OC00260,2025-05-11 04:50:41,2025-05-15 00:18:14.108145321,Furadeira-01,Gaveteiro,broca-quebrada,Médio,Tarde,Quebra de broca durante a furação,91.46
+OC00261,2025-05-11 18:18:34,2025-05-12 07:24:49.092434291,Lixadeira-01,Guarda-roupa,lixa-desgastada,Médio,Tarde,Lixa desgastada antes do previsto,13.1
+OC00262,2025-05-11 19:01:33,2025-05-13 05:04:10.562919899,Serra-02,Criado-mudo,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,34.04
+OC00263,2025-05-12 23:29:13,2025-05-13 07:54:47.288679907,Embaladora-01,Estante,etiqueta-ilegivel,Alto,Manhã,Etiqueta ilegível na expedição,8.43
+OC00264,2025-05-13 00:45:02,2025-05-13 02:49:40.365513998,Serra-01,Guarda-roupa,corte-fora-esquadro,Alto,Manhã,Corte fora de esquadro no painel,2.08
+OC00265,2025-05-13 13:16:22,2025-05-14 14:15:01.530545104,Serra-02,Cabeceira,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,24.98
+OC00266,2025-05-13 14:33:04,2025-05-13 22:47:46.119019071,Seccionadora-01,Criado-mudo,corte-fora-medida,Médio,Tarde,Divergência de medida no plano de corte,8.25
+OC00267,2025-05-13 17:47:55,2025-05-17 16:12:58.286284869,CNC-01,Estante,desgaste-ferramenta,Baixo,Tarde,Desgaste de ferramenta no usinado,94.42
+OC00268,2025-05-13 22:51:36,2025-05-18 15:50:14.523493484,Serra-02,Cabeceira,corte-fora-medida,Baixo,Manhã,Corte fora de medida na Serra-02,112.98
+OC00269,2025-05-14 11:25:34,2025-05-16 01:04:06.076673808,CNC-01,Criado-mudo,desgaste-ferramenta,Médio,Noite,Desgaste de ferramenta no usinado,37.64
+OC00270,2025-05-14 12:33:26,2025-05-15 11:36:43.938660380,Serra-02,Criado-mudo,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,23.05
+OC00271,2025-05-15 09:25:18,2025-05-16 11:23:30.308033887,Prensa-01,Guarda-roupa,delaminacao,Médio,Manhã,Delaminação do painel prensado,25.97
+OC00272,2025-05-15 09:42:59,2025-05-16 07:41:03.917628559,Prensa-01,Gaveteiro,delaminacao,Médio,Manhã,Delaminação do painel prensado,21.97
+OC00273,2025-05-15 11:03:06,2025-05-18 07:23:10.146507213,Serra-02,Cabeceira,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,68.33
+OC00274,2025-05-15 20:12:28,2025-05-16 16:25:13.244877289,Coladeira-01,Guarda-roupa,falha-colagem,Médio,Noite,Falha de colagem na fita de borda,20.21
+OC00275,2025-05-16 02:09:45,2025-05-17 12:51:43.793582751,Serra-02,Mesa de jantar,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,34.7
+OC00276,2025-05-16 02:40:42,2025-05-16 17:41:30.379384853,CNC-01,Estante,erro-programa,Alto,Tarde,Erro de programa no usinado CNC,15.01
+OC00277,2025-05-16 09:04:45,2025-05-19 00:34:40.637643510,Coladeira-02,Gaveteiro,bolha-fita,Baixo,Manhã,Bolhas na fita de borda,63.5
+OC00278,2025-05-16 09:45:40,2025-05-20 19:18:40.619846810,Serra-02,Cabeceira,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,105.55
+OC00279,2025-05-16 12:45:13,2025-05-17 11:45:25.535662235,Coladeira-02,Guarda-roupa,bolha-fita,Médio,Tarde,Bolhas na fita de borda,23.0
+OC00280,2025-05-17 00:46:37,2025-05-17 09:18:42.829533830,Serra-02,Painel de TV,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,8.53
+OC00281,2025-05-17 04:56:22,2025-05-17 16:25:27.635053809,Serra-01,Criado-mudo,corte-fora-esquadro,Alto,Manhã,Corte fora de esquadro no painel,11.48
+OC00282,2025-05-17 10:21:04,2025-05-17 19:32:00.589083051,Serra-02,Mesa de jantar,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,9.18
+OC00283,2025-05-17 19:09:15,2025-05-24 20:42:20.750206551,CNC-01,Guarda-roupa,desgaste-ferramenta,Baixo,Tarde,Desgaste de ferramenta no usinado,169.55
+OC00284,2025-05-17 20:49:05,2025-05-18 01:40:39.970824645,Serra-01,Mesa de jantar,corte-fora-esquadro,Alto,Tarde,Corte fora de esquadro no painel,4.86
+OC00285,2025-05-17 22:46:39,2025-05-19 01:52:29.616892504,Serra-02,Criado-mudo,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,27.1
+OC00286,2025-05-18 06:36:13,2025-05-18 18:12:23.759716423,Embaladora-01,Cômoda,etiqueta-ilegivel,Alto,Noite,Etiqueta ilegível na expedição,11.6
+OC00287,2025-05-18 17:43:03,2025-05-19 21:20:30.335385251,Serra-02,Criado-mudo,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,27.62
+OC00288,2025-05-18 20:16:51,2025-05-19 05:34:20.305905097,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,9.29
+OC00289,2025-05-18 23:27:09,2025-05-21 10:43:57.698427984,Coladeira-02,Cômoda,cola-temperatura,Baixo,Manhã,Cola fora da temperatura de trabalho,59.28
+OC00290,2025-05-19 00:55:38,2025-05-21 18:36:39.271760831,Lixadeira-01,Cômoda,lixa-desgastada,Baixo,Manhã,Lixa desgastada antes do previsto,65.68
+OC00291,2025-05-19 02:39:23,2025-05-19 23:40:34.929944962,Seccionadora-01,Mesa de jantar,lascamento,Médio,Manhã,Lascamento na borda do painel,21.02
+OC00292,2025-05-19 12:22:23,2025-05-20 16:42:00.498234904,Serra-02,Criado-mudo,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,28.33
+OC00293,2025-05-21 04:03:10,2025-05-21 17:47:51.268090054,CNC-01,Criado-mudo,erro-programa,Médio,Noite,Erro de programa no usinado CNC,13.74
+OC00294,2025-05-21 05:39:50,2025-05-21 21:17:34.384828271,Prensa-01,Gaveteiro,delaminacao,Médio,Tarde,Delaminação do painel prensado,15.63
+OC00295,2025-05-21 10:16:33,2025-06-02 08:23:53.520046139,Prensa-01,Painel de TV,pressao-fora-padrao,Baixo,Tarde,Pressão fora do padrão na prensagem,286.12
+OC00296,2025-05-21 12:46:21,2025-05-22 10:40:25.231775990,Serra-02,Mesa de jantar,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,21.9
+OC00297,2025-05-21 15:38:45,2025-05-23 07:46:33.871954997,Serra-02,Criado-mudo,corte-fora-medida,Médio,Tarde,Corte fora de medida na Serra-02,40.13
+OC00298,2025-05-21 22:04:58,2025-05-24 13:22:33.916678467,Serra-02,Gaveteiro,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,63.29
+OC00299,2025-05-22 02:18:22,2025-05-25 19:14:21.928516108,Furadeira-01,Cômoda,furo-descentralizado,Baixo,Manhã,Furo descentralizado no painel,88.93
+OC00300,2025-05-22 03:36:58,2025-05-22 21:57:10.832239104,Serra-01,Cômoda,corte-fora-esquadro,Médio,Manhã,Corte fora de esquadro no painel,18.34
+OC00301,2025-05-22 06:30:11,2025-05-24 22:09:49.906850719,Serra-02,Gaveteiro,corte-fora-medida,Baixo,Manhã,Corte fora de medida na Serra-02,63.66
+OC00302,2025-05-22 11:42:05,2025-05-22 14:22:02.779183050,Coladeira-01,Painel de TV,falha-colagem,Alto,Manhã,Falha de colagem na fita de borda,2.67
+OC00303,2025-05-22 17:29:29,2025-05-22 23:10:15.448301743,Serra-02,Estante,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,5.68
+OC00304,2025-05-22 20:36:56,2025-05-23 00:35:57.073307855,Furadeira-01,Criado-mudo,furo-descentralizado,Alto,Noite,Furo descentralizado no painel,3.98
+OC00305,2025-05-23 13:19:13,2025-05-23 20:44:31.867637922,Serra-02,Estante,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,7.42
+OC00306,2025-05-23 16:12:26,2025-05-24 02:39:49.815419543,Embaladora-01,Painel de TV,falha-embalagem,Alto,Noite,Falha no filme de embalagem,10.46
+OC00307,2025-05-23 20:16:02,2025-05-25 00:56:19.506603888,Prensa-01,Estante,pressao-fora-padrao,Médio,Manhã,Pressão fora do padrão na prensagem,28.67
+OC00308,2025-05-24 07:56:13,2025-06-03 07:29:21.280550189,Coladeira-02,Criado-mudo,bolha-fita,Baixo,Noite,Bolhas na fita de borda,239.55
+OC00309,2025-05-24 12:32:28,2025-05-24 23:00:48.703945866,Serra-02,Criado-mudo,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,10.47
+OC00310,2025-05-24 12:57:22,2025-05-24 21:24:38.768941411,Serra-02,Painel de TV,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,8.45
+OC00311,2025-05-24 16:20:14,2025-05-26 01:19:24.719182594,Serra-02,Criado-mudo,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,32.99
+OC00312,2025-05-24 19:31:11,2025-05-26 13:46:38.601501256,Serra-02,Painel de TV,corte-fora-medida,Baixo,Manhã,Corte fora de medida na Serra-02,42.26
+OC00313,2025-05-24 19:40:30,2025-05-27 16:44:57.634505770,Serra-02,Gaveteiro,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,69.07
+OC00314,2025-05-24 21:49:35,2025-05-27 16:55:24.558708076,Serra-02,Guarda-roupa,corte-fora-medida,Baixo,Noite,Corte fora de medida na Serra-02,67.1
+OC00315,2025-05-24 22:44:54,2025-05-25 14:00:27.286794627,Serra-02,Mesa de jantar,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,15.26
+OC00316,2025-05-25 16:34:51,2025-05-26 18:22:20.780448910,Serra-02,Estante,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,25.79
+OC00317,2025-05-25 20:30:15,2025-05-26 09:35:34.761245874,Serra-02,Gaveteiro,corte-fora-medida,Alto,Manhã,Corte fora de medida na Serra-02,13.09
+OC00318,2025-05-25 22:10:22,2025-05-29 19:47:10.217271499,CNC-01,Gaveteiro,erro-programa,Baixo,Manhã,Erro de programa no usinado CNC,93.61
+OC00319,2025-05-25 23:31:16,2025-05-26 02:48:31.034389130,Serra-02,Gaveteiro,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,3.29
+OC00320,2025-05-26 06:10:47,2025-05-28 05:01:23.100616670,Serra-02,Painel de TV,corte-fora-medida,Médio,Noite,Corte fora de medida na Serra-02,46.84
+OC00321,2025-05-26 11:45:10,2025-05-29 22:59:14.207661599,Furadeira-01,Criado-mudo,furo-descentralizado,Baixo,Noite,Furo descentralizado no painel,83.23
+OC00322,2025-05-26 13:01:56,2025-05-29 05:18:14.144181470,Serra-02,Gaveteiro,corte-fora-medida,Baixo,Tarde,Corte fora de medida na Serra-02,64.27
+OC00323,2025-05-26 13:20:35,2025-06-02 05:49:04.164406841,Coladeira-02,Gaveteiro,cola-temperatura,Baixo,Manhã,Cola fora da temperatura de trabalho,160.47
+OC00324,2025-05-26 15:41:54,2025-05-27 03:13:28.591286041,CNC-01,Criado-mudo,erro-programa,Médio,Tarde,Erro de programa no usinado CNC,11.53
+OC00325,2025-05-26 16:03:32,2025-05-29 04:44:46.548442128,Serra-02,Gaveteiro,corte-fora-medida,Baixo,Manhã,Corte fora de medida na Serra-02,60.69
+OC00326,2025-05-27 00:06:18,2025-05-27 07:29:59.612788606,Serra-02,Guarda-roupa,corte-fora-medida,Alto,Noite,Corte fora de medida na Serra-02,7.39
+OC00327,2025-05-27 07:14:58,2025-05-27 19:02:50.898984022,Embaladora-01,Estante,etiqueta-ilegivel,Alto,Tarde,Etiqueta ilegível na expedição,11.8
+OC00328,2025-05-27 08:17:51,2025-05-30 04:27:23.263684534,Furadeira-01,Estante,broca-quebrada,Médio,Manhã,Quebra de broca durante a furação,68.16
+OC00329,2025-05-27 08:54:27,2025-05-28 02:19:44.940104793,Serra-02,Guarda-roupa,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,17.42
+OC00330,2025-05-27 09:20:17,2025-05-28 03:41:25.565990674,Furadeira-01,Cômoda,furo-descentralizado,Médio,Noite,Furo descentralizado no painel,18.35
+OC00331,2025-05-27 09:36:38,2025-05-28 14:58:06.113339213,Embaladora-01,Cabeceira,etiqueta-ilegivel,Médio,Tarde,Etiqueta ilegível na expedição,29.36
+OC00332,2025-05-27 13:37:49,2025-05-28 18:23:50.964182970,CNC-01,Estante,erro-programa,Médio,Tarde,Erro de programa no usinado CNC,28.77
+OC00333,2025-05-27 17:59:58,2025-05-28 20:43:29.074979325,Seccionadora-01,Mesa de jantar,corte-fora-medida,Baixo,Tarde,Divergência de medida no plano de corte,26.73
+OC00334,2025-05-28 00:21:08,2025-05-28 10:08:19.873768670,Coladeira-01,Gaveteiro,falha-colagem,Médio,Tarde,Falha de colagem na fita de borda,9.79
+OC00335,2025-05-28 06:21:11,2025-05-31 12:39:31.607095284,Prensa-01,Criado-mudo,delaminacao,Baixo,Noite,Delaminação do painel prensado,78.31
+OC00336,2025-05-28 10:22:49,2025-05-29 07:24:47.778821091,Lixadeira-01,Mesa de jantar,acabamento-irregular,Médio,Noite,Acabamento irregular na superfície,21.03
+OC00337,2025-05-28 17:48:56,2025-05-29 22:04:34.879806029,Embaladora-01,Cabeceira,etiqueta-ilegivel,Médio,Manhã,Etiqueta ilegível na expedição,28.26
+OC00338,2025-05-28 18:16:27,2025-05-28 23:55:36.055465304,CNC-01,Criado-mudo,desgaste-ferramenta,Médio,Tarde,Desgaste de ferramenta no usinado,5.65
+OC00339,2025-05-28 20:18:15,2025-05-29 06:38:19.369607776,Lixadeira-01,Guarda-roupa,acabamento-irregular,Médio,Tarde,Acabamento irregular na superfície,10.33
+OC00340,2025-05-29 02:36:27,2025-06-02 19:28:24.031561112,CNC-01,Cômoda,desgaste-ferramenta,Baixo,Noite,Desgaste de ferramenta no usinado,112.87
+OC00341,2025-05-29 05:57:32,2025-05-30 01:29:50.266720347,Serra-02,Criado-mudo,corte-fora-medida,Médio,Manhã,Corte fora de medida na Serra-02,19.54
+OC00342,2025-05-29 15:58:40,2025-05-31 16:21:54.935140130,Serra-02,Criado-mudo,corte-fora-medida,Baixo,Manhã,Corte fora de medida na Serra-02,48.39
+OC00343,2025-05-29 17:30:56,2025-05-31 16:52:13.200797878,Seccionadora-01,Gaveteiro,lascamento,Médio,Manhã,Lascamento na borda do painel,47.35
