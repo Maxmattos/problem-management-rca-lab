@@ -11,9 +11,9 @@ proposed solution makes sense.* That is the gap this lab fills.
 
 > The teaching content and dataset are in **Portuguese**; this README is in English.
 
-![CI](https://github.com/Maxmattos/problem-management-rca-lab/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/Maxmattos/problem-management-rca-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/Maxmattos/problem-management-rca-lab/actions/workflows/ci.yml)
 ![python](https://img.shields.io/badge/python-3.11%2B-blue)
-![pandas](https://img.shields.io/badge/pandas-2.x-150458)
+![pandas](https://img.shields.io/badge/pandas-3.x-150458)
 ![plotly](https://img.shields.io/badge/plotly-5.x-3f4f75)
 
 ## Scenario
